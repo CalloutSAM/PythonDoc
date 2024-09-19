@@ -1,0 +1,7 @@
+Debug lecture need to check 
+
+input() function 
+
+input("A prompt for the user")
+output will wait for the output otherthan its same as print funtion
+

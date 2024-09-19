@@ -1,0 +1,13 @@
+int_age = int(age)
+years_remaining = 90 - int_age
+days_in_year = 365
+weeks_in_year = 52
+months_in_year = 12
+
+# Calculate time left
+days_left = years_remaining * days_in_year
+weeks_left = years_remaining * weeks_in_year
+months_left = years_remaining * months_in_year
+
+# Output the result using f-strings
+print(f"You have {days_left} days, {weeks_left} weeks, and {months_left} months left.")

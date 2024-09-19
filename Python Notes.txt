@@ -1,0 +1,21 @@
+Python Notes
+
+len funtion 
+len(str)--> will count number of element in a string
+
+name_string
+name_string.split(", ") --> will separate/split the string for a parameter example in this  (, space)
+
+
+
+//def for defining function ex
+de my funciton()
+print("Hello")// will not do anything
+
+//calling out the function 
+my funciton()// will give Hello 
+
+
+fruits = ['apple'  'banana']
+x = fruits.index("banana")
+
